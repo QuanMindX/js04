@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "Lect5",
+			"path": "../../Lect5"
+		},
+		{
+			"name": "Pizza",
+			"path": "."
+		},
+		{
+			"name": "web picture",
+			"path": "../../web picture"
+		},
+		{
+			"name": "Cafe",
+			"path": "../JSA03-NMQ-1/Cafe"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pizza"
+	}
+}

@@ -1,0 +1,14 @@
+
+#navbarNav {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+}
+
+#logo {
+    width: 200px;
+}
+
+#slideshow {
+    height: 500px;
+}
